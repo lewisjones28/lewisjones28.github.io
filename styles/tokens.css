@@ -1,0 +1,28 @@
+:root {
+  --bg: #0b1020;
+  --bg-2: #0f1529;
+  --text: #e6f3ff;
+  --muted: #a7bbd4;
+  --card: #121a33;
+  --border: #243355;
+  --accent: #00ffa3; /* neon green */
+  --accent-2: #3bb3ff; /* electric blue */
+  --shadow: 0 10px 30px rgba(0,0,0,.35);
+
+  --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  --font-sans: Inter, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji";
+}
+
+html.dark { color-scheme: dark; }
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --bg: #f7fbff;
+    --bg-2: #eef5ff;
+    --text: #0a1420;
+    --muted: #43536d;
+    --card: #ffffff;
+    --border: #dbe7f4;
+    --shadow: 0 6px 18px rgba(0,0,0,.08);
+  }
+}

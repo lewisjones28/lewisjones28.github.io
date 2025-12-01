@@ -1,0 +1,38 @@
+[
+  {
+    "id": "portfolio",
+    "title": "Static Portfolio Site",
+    "description": "This site: vanilla JS, hash routing, JSON-driven content, accessible and performant.",
+    "techStack": ["JavaScript", "Tailwind-like CSS", "ES Modules"],
+    "repoUrl": "",
+    "liveUrl": "",
+    "images": [],
+    "tags": ["web", "accessibility", "performance"],
+    "featured": true,
+    "date": "2025-11-30"
+  },
+  {
+    "id": "ui-kit",
+    "title": "UI Component Kit",
+    "description": "Monospace, neon-accent UI primitives used across projects.",
+    "techStack": ["CSS", "Design Tokens"],
+    "repoUrl": "",
+    "liveUrl": "",
+    "images": [],
+    "tags": ["design", "ui"],
+    "featured": false,
+    "date": "2025-05-01"
+  },
+  {
+    "id": "markdown-blog",
+    "title": "Client-side Markdown Blog",
+    "description": "Minimal blog rendering Markdown in the browser with no dependencies.",
+    "techStack": ["JavaScript"],
+    "repoUrl": "",
+    "liveUrl": "",
+    "images": [],
+    "tags": ["blog", "markdown"],
+    "featured": false,
+    "date": "2025-10-15"
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "name": "Lewis Jones",
+  "title": "Senior Backend Engineer",
+  "bio": "Senior Backend Engineer with expertise in building scalable, high-performance backend systems. Experienced in cloud architecture, distributed systems, and modern backend technologies.",
+  "avatarUrl": "assets/avatar.png",
+  "socials": {
+    "github": "https://github.com/lewisjones28",
+    "linkedin": "https://www.linkedin.com/in/lewisjones28/",
+    "twitter": "",
+    "email": "LewisJones28@hotmail.co.uk"
+  },
+  "skills": [
+    "Java",
+    "Spring Boot",
+    "SQL",
+    "PostgreSQL",
+    "Python",
+    "Node.js",
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "MongoDB",
+    "System Design",
+    "API Design",
+    "Microservices",
+    "CI/CD",
+    "Performance Optimization",
+    "Database Design"
+  ],
+  "experience": [
+    {
+      "company": "Pulselive",
+      "location": "London",
+      "role": "Senior Backend Engineer",
+      "startDate": "2023",
+      "endDate": "Present",
+      "summary": "Engineered scalable backend systems for high-traffic sports platforms. Led architecture decisions and mentored junior engineers."
+    },
+    {
+      "company": "HICX",
+      "location": "Remote",
+      "role": "Backend Engineer",
+      "startDate": "2021",
+      "endDate": "2023",
+      "summary": "Developed robust APIs and backend services for supplier experience platform. Improved system performance and reliability."
+    },
+    {
+      "company": "LoveAdmin",
+      "location": "Brighton",
+      "role": "Full Stack Developer",
+      "startDate": "2019",
+      "endDate": "2021",
+      "summary": "Built backend features for membership management platform. Optimized database queries and API performance."
+    }
+  ]
+}

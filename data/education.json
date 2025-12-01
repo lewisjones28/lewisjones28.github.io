@@ -1,0 +1,23 @@
+[
+  {
+    "level": "MSc Advanced Computer Science",
+    "institution": "University of Leicester",
+    "grade": "Merit",
+    "startDate": "2018",
+    "endDate": "2019"
+  },
+  {
+    "level": "BSc Computer Science",
+    "institution": "University of Leicester",
+    "grade": "2:1",
+    "startDate": "2015",
+    "endDate": "2018"
+  },
+  {
+    "level": "Level 3 National Diploma in IT",
+    "institution": "",
+    "grade": "D*D*D",
+    "startDate": "2013",
+    "endDate": "2015"
+  }
+]
