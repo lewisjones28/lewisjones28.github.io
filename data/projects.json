@@ -1,38 +1,26 @@
 [
   {
+    "id": "pagepulse",
+    "title": "PagePulse",
+    "description": "A configurable, automated auditing service designed to keep Confluence spaces healthy, accurate, and up to date. It continuously monitors pages across specified spaces and tags, evaluates their last published or updated timestamp, and alerts teams when content becomes stale.",
+    "techStack": ["Java", "Spring Boot", "MySQL", "Redis"],
+    "repoUrl": "",
+    "liveUrl": "",
+    "images": [],
+    "tags": ["backend", "automation", "confluence"],
+    "featured": true,
+    "date": "2026-01-03"
+  },
+  {
     "id": "portfolio",
     "title": "Static Portfolio Site",
-    "description": "This site: vanilla JS, hash routing, JSON-driven content, accessible and performant.",
-    "techStack": ["JavaScript", "Tailwind-like CSS", "ES Modules"],
+    "description": "My portfolio site, built with vanilla JS, hash routing, JSON-driven content, accessible and performant.",
+    "techStack": ["JavaScript", "Tailwind", "ES Modules"],
     "repoUrl": "",
     "liveUrl": "",
     "images": [],
     "tags": ["web", "accessibility", "performance"],
-    "featured": true,
+    "featured": false,
     "date": "2025-11-30"
-  },
-  {
-    "id": "ui-kit",
-    "title": "UI Component Kit",
-    "description": "Monospace, neon-accent UI primitives used across projects.",
-    "techStack": ["CSS", "Design Tokens"],
-    "repoUrl": "",
-    "liveUrl": "",
-    "images": [],
-    "tags": ["design", "ui"],
-    "featured": false,
-    "date": "2025-05-01"
-  },
-  {
-    "id": "markdown-blog",
-    "title": "Client-side Markdown Blog",
-    "description": "Minimal blog rendering Markdown in the browser with no dependencies.",
-    "techStack": ["JavaScript"],
-    "repoUrl": "",
-    "liveUrl": "",
-    "images": [],
-    "tags": ["blog", "markdown"],
-    "featured": false,
-    "date": "2025-10-15"
   }
 ]
